@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">My Application</string>
-    <string name="show">show</string>
-    <string name="textview">TextView</string>
-    <string name="press">press</string>
-</resources>
