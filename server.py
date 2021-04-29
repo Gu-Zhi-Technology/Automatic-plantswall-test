@@ -11,6 +11,6 @@ while True:
     serverMessage = input()
     serverMessage = serverMessage+'\n'
     conn.sendall(serverMessage.encode())
-    print("ok")
+    print("okaa")
 
 
