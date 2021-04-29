@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
             sum = ClientSo(host, port).run().toString()
             show(sum)
             //dhuh
+            println("duhu")
         }
     }
 }
