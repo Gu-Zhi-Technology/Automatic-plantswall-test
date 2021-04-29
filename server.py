@@ -8,8 +8,8 @@ server.bind((HOST, PORT))
 server.listen(10)
 conn, addr = server.accept()
 while True:
-
     serverMessage = input()
     serverMessage = serverMessage+'\n'
     conn.sendall(serverMessage.encode())
+    print("ok")
 
