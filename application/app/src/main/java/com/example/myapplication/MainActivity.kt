@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         while(true){
             sum = ClientSo(host, port).run().toString()
             show(sum)
-            //dhuh
+            //dhuhdddd
             println("duhu")
         }
     }
